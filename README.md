@@ -1,5 +1,4 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5500&pause=1000&color=FFFFFF&center=true&width=435&lines=Hi%2C+I'm+Suriel+!+!;Welcome+to+my+Github+page+%3A)" alt="Typing SVG" width="50%" />
   </a>
   <br>
   <a href="mailto:lucasgianini2006@gmail.com" alt="Gmail" target="_blank">
@@ -68,13 +67,6 @@ Me chamo Lucas Gianini, tenho 19 anos. Atualmente, estou cursando Análise e Des
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
-   align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c#/c#-original.svg" />
-<img 
     align="left" 
     alt="Git" 
     title="Git"
@@ -95,15 +87,7 @@ Me chamo Lucas Gianini, tenho 19 anos. Atualmente, estou cursando Análise e Des
   align="left" 
   alt="GitHub Stats" 
   height="200" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=surieltech&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gianinil&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />
-
-
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=surieltech&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=10" 
-  />
 
 </p>

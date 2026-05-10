@@ -61,8 +61,17 @@ Me chamo Lucas Gianini, tenho 19 anos. Atualmente, estou cursando Análise e Des
 
 <img 
     align="left" 
-    alt="React" 
-    title="React"
+    alt="SQLite" 
+    title="SQLite"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="bootstrap" 
+    title="bootstrap"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 

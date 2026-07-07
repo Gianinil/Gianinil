@@ -7,11 +7,11 @@
 
 </div>
 
-## Olá! Eu sou o Lucas 👋
+## Olá, sou o Lucas 👋
 
 **`Desenvolvedor Full-Stack`**
 
-Tenho 19 anos e curso o último ano de Análise e Desenvolvimento de Sistemas na UNIPAR. Gosto de construir sistemas completos e usáveis, não só exercícios de sala de aula — no momento estou terminando meu TCC (gestão comercial em .NET) e construindo do zero um ERP multiempresa em .NET 10 + React, além de um app mobile em React Native/Expo.
+Tenho 19 anos e sou formado em Análise e Desenvolvimento de Sistemas pela UNIPAR. Gosto de construir sistemas completos e usáveis, não só exercícios de sala de aula — meu TCC foi um sistema de gestão comercial em .NET, e agora estou construindo do zero um ERP multiempresa em .NET 10 + React, além de um app mobile em React Native/Expo.
 
 ---
 

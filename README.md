@@ -13,6 +13,12 @@
 
 Tenho 19 anos e sou formado em Análise e Desenvolvimento de Sistemas pela UNIPAR. Gosto de construir sistemas completos e usáveis, não só exercícios de sala de aula — meu TCC foi um sistema de gestão comercial em .NET, e agora estou construindo do zero um ERP multiempresa em .NET 10 + React, além de um app mobile em React Native/Expo.
 
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas — UNIPAR
+- 💼 Construindo o **AurionSYS**, um ERP multiempresa em .NET 10 + React
+- 📱 Também desenvolvo para mobile com React Native e Expo
+- 🗄️ Confortável tanto com SQL relacional (PostgreSQL, Firebird, SQLite) quanto com o dia a dia de administrar esses bancos
+- 🌱 Sempre estudando arquitetura de software e boas práticas de backend
+
 ---
 
 ### 🚀 Projetos em destaque
@@ -23,6 +29,9 @@ Tenho 19 anos e sou formado em Análise e Desenvolvimento de Sistemas pela UNIPA
   </a>
   <a href="https://github.com/Gianinil/TCC_DIA_01">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Gianinil&repo=TCC_DIA_01&theme=default" />
+  </a>
+  <a href="https://github.com/Gianinil/curso-4-temperamentos">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Gianinil&repo=curso-4-temperamentos&theme=default" />
   </a>
 </p>
 
@@ -74,4 +83,16 @@ Tenho 19 anos e sou formado em Análise e Desenvolvimento de Sistemas pela UNIPA
 <p align="left">
   <img align="center" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gianinil&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide=prs,issues" />
   <img align="center" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gianinil&layout=compact&theme=tokyonight&locale=pt-br" />
+</p>
+
+<p align="left">
+  <img align="center" src="https://streak-stats.demolab.com/?user=Gianinil&theme=tokyonight" alt="Streak de contribuições" />
+</p>
+
+---
+
+### 📈 Atividade
+
+<p align="left">
+  <img align="center" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gianinil&theme=tokyo-night&hide_border=true" alt="Gráfico de atividade" />
 </p>

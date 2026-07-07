@@ -49,7 +49,18 @@ Tenho 19 anos e sou formado em Análise e Desenvolvimento de Sistemas pela UNIPA
 
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="SQLite" title="SQLite" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+<img align="left" alt="Firebird" title="Firebird" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<br/><br/>
+
+---
+
+### 🛠️ Ferramentas
+
+<img align="left" alt="DBeaver" title="DBeaver" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
+
+<img align="left" src="https://img.shields.io/badge/IB_Expert-333333?style=flat" alt="IB Expert" style="padding-right: 10px;" />
 
 <br/><br/>
 

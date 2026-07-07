@@ -19,10 +19,10 @@ Tenho 19 anos e curso o último ano de Análise e Desenvolvimento de Sistemas na
 
 <p align="left">
   <a href="https://github.com/Gianinil/via-sancta">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gianinil&repo=via-sancta&theme=default" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Gianinil&repo=via-sancta&theme=default" />
   </a>
   <a href="https://github.com/Gianinil/TCC_DIA_01">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gianinil&repo=TCC_DIA_01&theme=default" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Gianinil&repo=TCC_DIA_01&theme=default" />
   </a>
 </p>
 
@@ -58,6 +58,6 @@ Tenho 19 anos e curso o último ano de Análise e Desenvolvimento de Sistemas na
 ### 📊 Estatísticas
 
 <p align="left">
-  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=Gianinil&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide=prs,issues" />
-  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gianinil&layout=compact&theme=tokyonight&locale=pt-br" />
+  <img align="center" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gianinil&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide=prs,issues" />
+  <img align="center" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gianinil&layout=compact&theme=tokyonight&locale=pt-br" />
 </p>

@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;.NET+%E2%80%A2+React+%E2%80%A2+React+Native;Especialista+em+tipo+Fantasma+%F0%9F%92%9C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;.NET+%E2%80%A2+React+%E2%80%A2+React+Native;Especialista+em+tipo+Fantasma" alt="Typing SVG" />
 
 <br/>
 
@@ -25,11 +25,11 @@
 
 <div align="center">
 
-`▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 💜 `▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 🔮 `▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 🌌 `▬▬▬▬▬▬▬▬▬▬▬▬▬▬`
+`▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 🧿 `▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 🪐 `▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 🌀 `▬▬▬▬▬▬▬▬▬▬▬▬▬▬`
 
 </div>
 
-## 💜 Sobre Mim
+## 🧿 Sobre Mim
 
 <img align="right" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/94.gif" width="130" />
 
@@ -61,28 +61,28 @@ Tenho 19 anos e sou formado em **Análise e Desenvolvimento de Sistemas pela UNI
 
 <br/>
 
-### 🔮 Arsenal Técnico
+### ⚗️ Arsenal Técnico
 
 <div align="center">
 
-| 🌌 **Categoria** | ⚡ **Tecnologias** |
+| 🪐 **Categoria** | 🌀 **Tecnologias** |
 |:---:|:---|
-| **Linguagens** | ![C#](https://img.shields.io/badge/C%23-6B46C1?style=for-the-badge&logo=csharp&logoColor=E9D5FF) ![TypeScript](https://img.shields.io/badge/TypeScript-7E22CE?style=for-the-badge&logo=typescript&logoColor=E9D5FF) ![JavaScript](https://img.shields.io/badge/JavaScript-9333EA?style=for-the-badge&logo=javascript&logoColor=E9D5FF) ![Python](https://img.shields.io/badge/Python-581C87?style=for-the-badge&logo=python&logoColor=E9D5FF) ![SQL](https://img.shields.io/badge/SQL-4C1D95?style=for-the-badge&logo=databricks&logoColor=E9D5FF) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-6B46C1?style=for-the-badge&logo=react&logoColor=C084FC) ![Tailwind](https://img.shields.io/badge/Tailwind-7E22CE?style=for-the-badge&logo=tailwindcss&logoColor=E9D5FF) ![Bootstrap](https://img.shields.io/badge/Bootstrap-9333EA?style=for-the-badge&logo=bootstrap&logoColor=E9D5FF) ![HTML5](https://img.shields.io/badge/HTML5-581C87?style=for-the-badge&logo=html5&logoColor=E9D5FF) ![CSS3](https://img.shields.io/badge/CSS3-4C1D95?style=for-the-badge&logo=css3&logoColor=E9D5FF) |
+| **Linguagens** | ![C#](https://img.shields.io/badge/C%23-6B46C1?style=for-the-badge&logo=dotnet&logoColor=E9D5FF) ![TypeScript](https://img.shields.io/badge/TypeScript-7E22CE?style=for-the-badge&logo=typescript&logoColor=E9D5FF) ![JavaScript](https://img.shields.io/badge/JavaScript-9333EA?style=for-the-badge&logo=javascript&logoColor=E9D5FF) ![Python](https://img.shields.io/badge/Python-581C87?style=for-the-badge&logo=python&logoColor=E9D5FF) ![SQL](https://img.shields.io/badge/SQL-4C1D95?style=for-the-badge&logo=databricks&logoColor=E9D5FF) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-6B46C1?style=for-the-badge&logo=react&logoColor=C084FC) ![Tailwind](https://img.shields.io/badge/Tailwind-7E22CE?style=for-the-badge&logo=tailwindcss&logoColor=E9D5FF) ![Bootstrap](https://img.shields.io/badge/Bootstrap-9333EA?style=for-the-badge&logo=bootstrap&logoColor=E9D5FF) ![HTML5](https://img.shields.io/badge/HTML5-581C87?style=for-the-badge&logo=html5&logoColor=E9D5FF) ![CSS](https://img.shields.io/badge/CSS-4C1D95?style=for-the-badge&logo=css&logoColor=E9D5FF) |
 | **Mobile** | ![React Native](https://img.shields.io/badge/React%20Native-6B46C1?style=for-the-badge&logo=react&logoColor=C084FC) ![Expo](https://img.shields.io/badge/Expo-4C1D95?style=for-the-badge&logo=expo&logoColor=E9D5FF) |
 | **Backend** | ![.NET](https://img.shields.io/badge/.NET-7E22CE?style=for-the-badge&logo=dotnet&logoColor=E9D5FF) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-6B46C1?style=for-the-badge&logo=dotnet&logoColor=E9D5FF) ![Node.js](https://img.shields.io/badge/Node.js-9333EA?style=for-the-badge&logo=nodedotjs&logoColor=E9D5FF) ![NestJS](https://img.shields.io/badge/NestJS-581C87?style=for-the-badge&logo=nestjs&logoColor=E9D5FF) |
-| **Bancos de Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6B46C1?style=for-the-badge&logo=postgresql&logoColor=E9D5FF) ![Firebird](https://img.shields.io/badge/Firebird-4C1D95?style=for-the-badge&logo=firebird&logoColor=E9D5FF) ![SQLite](https://img.shields.io/badge/SQLite-7E22CE?style=for-the-badge&logo=sqlite&logoColor=E9D5FF) ![EF Core](https://img.shields.io/badge/EF%20Core-581C87?style=for-the-badge&logo=nuget&logoColor=E9D5FF) |
-| **Ferramentas** | ![Git](https://img.shields.io/badge/Git-6B46C1?style=for-the-badge&logo=git&logoColor=E9D5FF) ![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=C084FC) ![VS Code](https://img.shields.io/badge/VS%20Code-7E22CE?style=for-the-badge&logo=visualstudiocode&logoColor=E9D5FF) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-9333EA?style=for-the-badge&logo=visualstudio&logoColor=E9D5FF) ![Docker](https://img.shields.io/badge/Docker-581C87?style=for-the-badge&logo=docker&logoColor=E9D5FF) ![DBeaver](https://img.shields.io/badge/DBeaver-4C1D95?style=for-the-badge&logo=dbeaver&logoColor=E9D5FF) |
+| **Bancos de Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6B46C1?style=for-the-badge&logo=postgresql&logoColor=E9D5FF) ![Firebird](https://img.shields.io/badge/Firebird-4C1D95?style=for-the-badge&labelColor=4C1D95) ![SQLite](https://img.shields.io/badge/SQLite-7E22CE?style=for-the-badge&logo=sqlite&logoColor=E9D5FF) ![EF Core](https://img.shields.io/badge/EF%20Core-581C87?style=for-the-badge&logo=nuget&logoColor=E9D5FF) |
+| **Ferramentas** | ![Git](https://img.shields.io/badge/Git-6B46C1?style=for-the-badge&logo=git&logoColor=E9D5FF) ![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=C084FC) ![VS Code](https://img.shields.io/badge/VS%20Code-7E22CE?style=for-the-badge&labelColor=7E22CE) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-9333EA?style=for-the-badge&labelColor=9333EA) ![Docker](https://img.shields.io/badge/Docker-581C87?style=for-the-badge&logo=docker&logoColor=E9D5FF) ![DBeaver](https://img.shields.io/badge/DBeaver-4C1D95?style=for-the-badge&logo=dbeaver&logoColor=E9D5FF) |
 
 </div>
 
 <div align="center">
 
-`▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 🌌 `▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 👾 `▬▬▬▬▬▬▬▬▬▬▬▬▬▬` ✨ `▬▬▬▬▬▬▬▬▬▬▬▬▬▬`
+`▬▬▬▬▬▬▬▬▬▬▬▬▬▬` ⚗️ `▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 🕹️ `▬▬▬▬▬▬▬▬▬▬▬▬▬▬` ☄️ `▬▬▬▬▬▬▬▬▬▬▬▬▬▬`
 
 </div>
 
-## ⚡ Estatísticas
+## 📊 Estatísticas
 
 <div align="center">
 
@@ -90,16 +90,12 @@ Tenho 19 anos e sou formado em **Análise e Desenvolvimento de Sistemas pela UNI
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gianinil&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&hide_border=false&bg_color=0D1117&border_color=6B46C1&title_color=9333EA&text_color=C084FC&icon_color=A855F7&ring_color=C084FC" alt="GitHub Stats" />
-<img height="180em" src="https://streak-stats.demolab.com?user=Gianinil&hide_border=false&background=0D1117&border=6B46C1&stroke=6B46C1&ring=9333EA&fire=C084FC&currStreakNum=E9D5FF&sideNums=C084FC&currStreakLabel=9333EA&sideLabels=A855F7&dates=A855F7" alt="Streak Stats" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gianinil&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&hide_border=false&bg_color=0D1117&border_color=6B46C1&title_color=9333EA&text_color=C084FC&icon_color=A855F7&ring_color=C084FC" alt="GitHub Stats" />
+<img height="180em" src="https://streak-stats.demolab.com?user=Gianinil&locale=pt_BR&hide_border=false&background=0D1117&border=6B46C1&stroke=6B46C1&ring=9333EA&fire=C084FC&currStreakNum=E9D5FF&sideNums=C084FC&currStreakLabel=9333EA&sideLabels=A855F7&dates=A855F7" alt="Streak Stats" />
 
 <br/><br/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gianinil&layout=compact&langs_count=8&locale=pt-br&hide_border=false&bg_color=0D1117&border_color=6B46C1&title_color=9333EA&text_color=C084FC&icon_color=A855F7" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gianinil&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gianinil&layout=compact&langs_count=8&locale=pt-br&hide_border=false&bg_color=0D1117&border_color=6B46C1&title_color=9333EA&text_color=C084FC&icon_color=A855F7" alt="Top Languages" />
 
 <br/>
 
@@ -109,15 +105,36 @@ Tenho 19 anos e sou formado em **Análise e Desenvolvimento de Sistemas pela UNI
 
 <div align="center">
 
-`▬▬▬▬▬▬▬▬▬▬▬▬▬▬` ✨ `▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 🌙 `▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 🔮 `▬▬▬▬▬▬▬▬▬▬▬▬▬▬`
+`▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 🌀 `▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 🐍 `▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 🪐 `▬▬▬▬▬▬▬▬▬▬▬▬▬▬`
 
 </div>
 
-## 👾 Moveset
+## 🐍 Contribuições
+
+> A cobrinha come meu grid de contribuições. Gerada automaticamente a cada 12h por
+> [GitHub Actions](https://github.com/Gianinil/Gianinil/actions), em paleta roxa customizada.
 
 <div align="center">
 
-| | 🎴 **Golpe** | 💜 **Tipo** | ⚔️ **Efeito** |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gianinil/Gianinil/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gianinil/Gianinil/output/snake.svg" />
+  <img alt="Animação da cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/Gianinil/Gianinil/output/snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<div align="center">
+
+`▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 🕹️ `▬▬▬▬▬▬▬▬▬▬▬▬▬▬` ☄️ `▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 🧿 `▬▬▬▬▬▬▬▬▬▬▬▬▬▬`
+
+</div>
+
+## 🕹️ Moveset
+
+<div align="center">
+
+| | 🎴 **Golpe** | 🌀 **Tipo** | ⚔️ **Efeito** |
 |:---:|:---|:---:|:---|
 | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/94.gif" width="60" /> | **Shadow Refactor** | `Fantasma` | Atravessa código legado e o reescreve sem quebrar a API pública. |
 | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/150.gif" width="60" /> | **Psychic Debug** | `Psíquico` | Localiza a query N+1 escondida em 3.000 linhas alheias. |
@@ -134,7 +151,7 @@ Tenho 19 anos e sou formado em **Análise e Desenvolvimento de Sistemas pela UNI
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  💜  STATUS DO TREINADOR                                     ║
+║  🧿  STATUS DO TREINADOR                                     ║
 ║  ──────────────────────────────────────────────────────────  ║
 ║  > compilando projeto......................... ok            ║
 ║  > testes..................................... passing       ║
@@ -147,15 +164,15 @@ Tenho 19 anos e sou formado em **Análise e Desenvolvimento de Sistemas pela UNI
 
 <div align="center">
 
-`▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 🌌 `▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 💜 `▬▬▬▬▬▬▬▬▬▬▬▬▬▬` ⚡ `▬▬▬▬▬▬▬▬▬▬▬▬▬▬`
+`▬▬▬▬▬▬▬▬▬▬▬▬▬▬` ☄️ `▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 🧿 `▬▬▬▬▬▬▬▬▬▬▬▬▬▬` ⚗️ `▬▬▬▬▬▬▬▬▬▬▬▬▬▬`
 
 </div>
 
-## 🌙 Projetos em Destaque
+## 🪐 Projetos em Destaque
 
 <div align="center">
 
-| | 🔮 **Projeto** | 💜 **Descrição** | ⚡ **Stack** |
+| | 🌀 **Projeto** | ⚗️ **Descrição** | 🕹️ **Stack** |
 |:---:|:---|:---|:---|
 | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/858.gif" width="55" /> | **[Via Sancta](https://github.com/Gianinil/via-sancta)** | App de devoções e vida espiritual católica. | `React Native` `Expo` `TypeScript` |
 | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/720.gif" width="55" /> | **AurionSYS** | ERP multiempresa construído do zero. | `.NET 10` `React` `EF Core` |
@@ -165,24 +182,24 @@ Tenho 19 anos e sou formado em **Análise e Desenvolvimento de Sistemas pela UNI
 <br/>
 
 <a href="https://github.com/Gianinil/via-sancta">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gianinil&repo=via-sancta&bg_color=0D1117&border_color=6B46C1&title_color=9333EA&text_color=C084FC&icon_color=A855F7" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Gianinil&repo=via-sancta&bg_color=0D1117&border_color=6B46C1&title_color=9333EA&text_color=C084FC&icon_color=A855F7" />
 </a>
 <a href="https://github.com/Gianinil/TCC_DIA_01">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gianinil&repo=TCC_DIA_01&bg_color=0D1117&border_color=6B46C1&title_color=9333EA&text_color=C084FC&icon_color=A855F7" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Gianinil&repo=TCC_DIA_01&bg_color=0D1117&border_color=6B46C1&title_color=9333EA&text_color=C084FC&icon_color=A855F7" />
 </a>
 <a href="https://github.com/Gianinil/curso-4-temperamentos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gianinil&repo=curso-4-temperamentos&bg_color=0D1117&border_color=6B46C1&title_color=9333EA&text_color=C084FC&icon_color=A855F7" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Gianinil&repo=curso-4-temperamentos&bg_color=0D1117&border_color=6B46C1&title_color=9333EA&text_color=C084FC&icon_color=A855F7" />
 </a>
 
 </div>
 
 <div align="center">
 
-`▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 🔮 `▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 🌌 `▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 💜 `▬▬▬▬▬▬▬▬▬▬▬▬▬▬`
+`▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 🪐 `▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 🌀 `▬▬▬▬▬▬▬▬▬▬▬▬▬▬` 📡 `▬▬▬▬▬▬▬▬▬▬▬▬▬▬`
 
 </div>
 
-## 🌌 Onde me Encontrar
+## 📡 Onde me Encontrar
 
 <div align="center">
 
@@ -193,7 +210,7 @@ Tenho 19 anos e sou formado em **Análise e Desenvolvimento de Sistemas pela UNI
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/lucas-gianini-4aa4b4336/">
-  <img src="https://img.shields.io/badge/LinkedIn-6B46C1?style=for-the-badge&logo=linkedin&logoColor=E9D5FF" />
+  <img src="https://img.shields.io/badge/LinkedIn-6B46C1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8+PC9zdmc+" />
 </a>
 <a href="https://x.com/lukotag">
   <img src="https://img.shields.io/badge/X%20(Twitter)-4C1D95?style=for-the-badge&logo=x&logoColor=E9D5FF" />
